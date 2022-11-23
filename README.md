@@ -29,8 +29,7 @@ geocoder
 
 Name: phonenumbers
 Version: 8.13.0
-Summary: Python version of Google's common library for parsing, formatting, stor
-ing and validating international phone numbers.
+Summary: Python version of Google's common library for parsing, formatting, storing and validating international phone numbers.
 Home-page: https://github.com/daviddrysdale/python-phonenumbers
 Author: David Drysdale
 Author-email: dmd@lurklurk.org
@@ -62,6 +61,26 @@ Author-email: wrobstory@gmail.com
 License: MIT
 
 <br>
+
+### `pip install pycountry`
+
+Name: pycountry
+Version: 22.3.5
+Summary: ISO country, subdivision, language, currency and script definitions and their translations
+Home-page: https://github.com/flyingcircusio/pycountry
+Author: Christian Theune
+Author-email: ct@flyingcircus.io
+License: LGPL 2.1
+
+### `pip show phone_iso3166`
+
+Name: phone-iso3166
+Version: 0.4.1
+Summary: Phonenumber to Country (ISO 3166-1) mapping
+Home-page: UNKNOWN
+Author:
+Author-email:
+License: MIT
 
 ## Also:
 
