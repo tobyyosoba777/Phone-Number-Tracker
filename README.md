@@ -51,6 +51,18 @@ License: The MIT License
 
 <br>
 
+### `pip install folium`
+
+Name: folium
+Version: 0.13.0
+Summary: Make beautiful maps with Leaflet.js & Python
+Home-page: https://github.com/python-visualization/folium
+Author: Rob Story
+Author-email: wrobstory@gmail.com
+License: MIT
+
+
+
 head over to https://opencagedata.com/ for a new api key,  create an account to get a Geocoding key
 
 in the numberLocation.py file before running, replace the value of the key variable on line 4 with the new key you were given from
