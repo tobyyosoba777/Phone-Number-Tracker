@@ -11,7 +11,6 @@ Track mobile number location in Python
 
 
 
-
 ### Packages:
 
 phonenumbers
@@ -24,13 +23,17 @@ geocoder
 ## Installation
 <br>
 
-#### `pip install opencv-python`
+### `pip install opencv-python`
 
 <br>
 
 ### `pip install -r requirements.txt`
 
 
+head over to https://opencagedata.com/ for a new api key,  create an account to get a Geocoding key
+
+in the numberLocation.py file before running, replace the value of the key variable on line 4 with the new key you were given from
+https://opencagedata.com/
 
 
 ### Socials:
@@ -55,7 +58,6 @@ geocoder
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][vscode]
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />][Python]
-[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" style="padding-right:10px;" />][OpenCv]
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" style="padding-right:10px;" />][jupyter]
 
 <br />
@@ -63,5 +65,4 @@ geocoder
 
 [vscode]: https://code.visualstudio.com
 [Python]: https://www.python.org/
-[OpenCv]: https://opencv.org/
 [jupyter]: jupyter.org
