@@ -29,6 +29,14 @@ geocoder
 
 ### `pip install geocoder`
 
+Name: geocoder
+Version: 1.38.1
+Summary: Geocoder is a simple and consistent geocoding library.
+Home-page: https://github.com/DenisCarriere/geocoder
+Author: Denis Carriere
+Author-email: carriere.denis@gmail.com
+License: The MIT License
+
 
 head over to https://opencagedata.com/ for a new api key,  create an account to get a Geocoding key
 
