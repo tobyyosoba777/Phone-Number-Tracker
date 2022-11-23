@@ -6,7 +6,7 @@
 
 
 
-Track mobile number locator using Python
+Track mobile number using Python
 
 ![Image](track1.jpg)
 
