@@ -13,7 +13,7 @@ Track mobile number using Python
 
 
 
-###Requirements:
+### Requirements:
   - Python3
   - pip3
   - IDE preferably Spyder/Vscode/Jupyter Notebook
@@ -21,15 +21,15 @@ Track mobile number using Python
 
 ### Packages:
 
-phonenumbers
+  - phonenumbers
 <br>
-geocoder
+  - geocoder
 <br>
-folium
+  - folium
 <br>
-pycountry
+  - pycountry
 <br>
-phone_iso3166
+  - phone_iso3166
 
 
 
