@@ -72,7 +72,7 @@ Author: Christian Theune
 Author-email: ct@flyingcircus.io
 License: LGPL 2.1
 
-### `pip show phone_iso3166`
+### `pip install phone_iso3166`
 
 Name: phone-iso3166
 Version: 0.4.1
