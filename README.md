@@ -23,11 +23,11 @@ geocoder
 ## Installation
 <br>
 
-### `pip install opencv-python`
+### `pip install phonenumbers`
 
 <br>
 
-### `pip install -r requirements.txt`
+### `pip install geocoder`
 
 
 head over to https://opencagedata.com/ for a new api key,  create an account to get a Geocoding key
