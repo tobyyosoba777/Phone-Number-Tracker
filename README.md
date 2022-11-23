@@ -47,7 +47,7 @@ https://opencagedata.com/
 [![website](./img/instagram-light.svg)](https://instagram.com/toby_osoba#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/toby_osoba#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/stack-overflow-light.svg)](https://stackoverflow.com/users/17608129/toby#gh-light-mode-only)
+[![website](https://github.com/tobyyosoba777/Computer-Vision-OpenCv-Python/blob/main/img/stack-overflow.svg)](https://stackoverflow.com/users/17608129/toby#gh-light-mode-only)
 [![website](./img/stackoverflow-dark.svg)](https://stackoverflow.com/users/17608129/toby#gh-dark-mode-only)
 
 
