@@ -27,7 +27,7 @@ class Location_Tracker:
         self.country_label.place(x=100, y=280)
         #__________Linking button with countries ________
         self.track_button.bind("<Button-1>", self.Track_location)
-        #255757294146
+        
 
     def Track_location(self,event):
         phone_number = self.phone_number.get()
