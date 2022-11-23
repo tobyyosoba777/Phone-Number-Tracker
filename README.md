@@ -26,7 +26,7 @@ geocoder
 ### `pip install phonenumbers`
 
 Name: phonenumbers
-Version: 8.12.55
+Version: 8.13.0
 Summary: Python version of Google's common library for parsing, formatting, stor
 ing and validating international phone numbers.
 Home-page: https://github.com/daviddrysdale/python-phonenumbers
