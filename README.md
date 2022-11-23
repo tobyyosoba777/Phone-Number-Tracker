@@ -17,9 +17,14 @@ Track mobile number using Python
 
 phonenumbers
 <br>
+geocoder
+<br>
 folium
 <br>
-geocoder
+pycountry
+<br>
+phone_iso3166
+
 
 
 ## Installation
@@ -95,7 +100,9 @@ do this only if the code did not run sucessfully at first
 ## Run:
 <br>
 
-Open `myNumber.py` and edit the "number" variable value on line 1 with the number you want to track and save and run the numberLocation.py
+Open `myNumber.py` and edit the "number" variable value on line 1 with the number you want to track and save and run the numberLocation.py .
+after doing this, open the directory of the python file and you would see a new html file that was created when the python file was executed
+The html file contains the map location of the number for better visualisation.
 
 
 ### Socials:
