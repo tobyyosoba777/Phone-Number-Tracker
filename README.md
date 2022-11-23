@@ -25,6 +25,16 @@ geocoder
 
 ### `pip install phonenumbers`
 
+Name: phonenumbers
+Version: 8.12.55
+Summary: Python version of Google's common library for parsing, formatting, stor
+ing and validating international phone numbers.
+Home-page: https://github.com/daviddrysdale/python-phonenumbers
+Author: David Drysdale
+Author-email: dmd@lurklurk.org
+License: Apache License 2.0
+
+
 <br>
 
 ### `pip install geocoder`
@@ -37,6 +47,7 @@ Author: Denis Carriere
 Author-email: carriere.denis@gmail.com
 License: The MIT License
 
+<br>
 
 head over to https://opencagedata.com/ for a new api key,  create an account to get a Geocoding key
 
