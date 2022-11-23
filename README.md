@@ -73,6 +73,11 @@ https://opencagedata.com/
 
 do this only if the code did not run sucessfully at first
 
+## RUN:
+<br>
+
+Open `myNumber.py` and edit the "number" variable value on line 1 with the number you want to track and save and run the numberLocation.py
+
 
 ### Socials:
 
