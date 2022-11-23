@@ -13,6 +13,12 @@ Track mobile number using Python
 
 
 
+###Requirements:
+  - Python3
+  - pip3
+  - IDE preferably Spyder/Vscode/Jupyter Notebook
+
+
 ### Packages:
 
 phonenumbers
