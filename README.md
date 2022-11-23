@@ -40,8 +40,8 @@ https://opencagedata.com/
 
 
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/towbbie#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/towbbie#gh-dark-mode-only)
+[![website](https://github.com/tobyyosoba777/Computer-Vision-OpenCv-Python/blob/main/img/twitter-light.svg)](https://twitter.com/towbbie#gh-light-mode-only)
+[![website](https://github.com/tobyyosoba777/Computer-Vision-OpenCv-Python/blob/main/img/twitter-dark.svg)](https://twitter.com/towbbie#gh-dark-mode-only)
 &nbsp;&nbsp;
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/toby_osoba#gh-light-mode-only)
