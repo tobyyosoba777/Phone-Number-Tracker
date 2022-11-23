@@ -63,12 +63,15 @@ License: MIT
 
 <br>
 
-# Also:
+## Also:
+
 
 head over to https://opencagedata.com/ for a new api key,  create an account to get a Geocoding key
 
 in the numberLocation.py file before running, replace the value of the key variable on line 4 with the new key you were given from
 https://opencagedata.com/
+
+do this only if the code did not run sucessfully at first
 
 
 ### Socials:
