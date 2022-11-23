@@ -22,13 +22,9 @@ Track mobile number using Python
 ### Packages:
 
   - phonenumbers
-<br>
   - geocoder
-<br>
   - folium
-<br>
   - pycountry
-<br>
   - phone_iso3166
 
 
