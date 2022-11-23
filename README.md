@@ -17,7 +17,19 @@ Track mobile number location in Python
 phonenumbers
 <br>
 folium
+<br>
 geocoder
+
+
+## Installation
+<br>
+### `pip install opencv-python`
+
+<br>
+
+### `pip install -r requirements.txt`
+
+
 
 
 ### Socials:
