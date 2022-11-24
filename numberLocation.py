@@ -1,7 +1,7 @@
 import phonenumbers
 from myNumber import number
 import folium
-Key = '87c8ab125c1547788f5dcb5cac53c7fe'
+Key = ''
 from phonenumbers import geocoder
 phonenumbers
 

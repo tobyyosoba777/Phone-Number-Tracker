@@ -89,12 +89,12 @@ Author:
 Author-email:
 License: MIT
 
-## Also:
+## Important:
 
 
 head over to https://opencagedata.com/ for a new api key,  create an account to get a Geocoding key
 
-in the numberLocation.py file before running, replace the value of the key variable on line 4 with the new key you were given from
+in the numberLocation.py file before running, replace the empty value of the key variable on line 4 with the new key you obtained from
 https://opencagedata.com/
 
 do this only if the code did not run sucessfully at first
